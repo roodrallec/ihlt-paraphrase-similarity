@@ -4,7 +4,7 @@ Deadline: 10/11/2017
 A pair of texts is a paraphrase when both texts describe the same
 meaning with different words.
 
-1. Implement at least three approaches to detect paraphase using sentence similarity metrics.
+1. Implement at least three approaches to detect paraphrase using sentence similarity metrics.
 2. Explore one lexical dimension per metric.
 3. Evaluate each approach using the provided evaluation framework (Raco).
 4. Compare and comment the results achieved by the approaches.
